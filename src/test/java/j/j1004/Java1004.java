@@ -1,4 +1,4 @@
-package java.java1004;
+package j.j1004;
 
 import javax.swing.JOptionPane;
 

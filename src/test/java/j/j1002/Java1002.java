@@ -1,4 +1,4 @@
-package java.java1002;
+package j.j1002;
 
 
 public class Java1002 {

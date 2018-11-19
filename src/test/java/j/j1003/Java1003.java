@@ -1,4 +1,4 @@
-package java.java1003;
+package j.j1003;
 
 public class Java1003 {
 
