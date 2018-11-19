@@ -1,4 +1,4 @@
-package waf1002;
+package waf.waf1002;
 
 public class WFWebElement {
 

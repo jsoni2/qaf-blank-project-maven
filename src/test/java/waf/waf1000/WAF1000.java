@@ -1,7 +1,7 @@
 /**
  * 
  */
-package waf1000;
+package waf.waf1000;
 
 /**
  * @author janak.soni

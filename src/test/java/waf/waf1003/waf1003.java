@@ -1,4 +1,4 @@
-package waf1003;
+package waf.waf1003;
 
 public class waf1003 {
 
