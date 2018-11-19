@@ -1,7 +1,5 @@
 package j.j2020;
 
-import static org.hamcrest.CoreMatchers.either;
-
 import java.io.FileReader;
 import java.io.Reader;
 
