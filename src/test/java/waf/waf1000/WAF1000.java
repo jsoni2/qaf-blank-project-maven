@@ -3,6 +3,8 @@
  */
 package waf.waf1000;
 
+import java.util.List;
+
 /**
  * @author janak.soni
  *
@@ -10,16 +12,17 @@ package waf.waf1000;
 
 class WFBaseTestPage {
 
-	public void elementsToWaitFor() {
+	public List<QAFWebElemnet> elementsToWaitFor() {
 		// TODO Auto-generated method stub
 		System.out.println("Base Class");
+		return null;
 	}
 
 }
 
 class Page extends WFBaseTestPage {
 
-	public void elementsToWaitFor() {
+	public List<QAFWebElemnet> elementsToWaitFor() {
 		// TODO Auto-generated method stub
 
 		// To Fail:
@@ -29,6 +32,7 @@ class Page extends WFBaseTestPage {
 		// Comment Super keyword statement
 		
 		System.out.println("Page Class");
+		return null;
 	}
 }
 
